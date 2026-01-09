@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Mobile/Expo/Expo.md",
+                "file": "Development/Mobile/React Native/React native.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expo"
+              "title": "React native"
+            }
+          },
+          {
+            "id": "74c35f5c0b1232e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Mobile/Expo/Development process.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Development process"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Mobile/Expo/Expo.md",
+                "file": "Development/Mobile/Expo/Development process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Expo"
+              "title": "Backlinks for Development process"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Mobile/Expo/Expo.md",
+                "file": "Development/Mobile/Expo/Development process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Expo"
+              "title": "Outgoing links from Development process"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Mobile/Expo/Expo.md",
+                "file": "Development/Mobile/Expo/Development process.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Expo"
+              "title": "Outline of Development process"
             }
           },
           {
@@ -194,11 +209,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a05e10b4b87596bc",
+  "active": "74c35f5c0b1232e3",
   "lastOpenFiles": [
-    "Development/Mobile/Expo/Testing.md",
-    "Development/Mobile/Expo/Expo.md",
     "Pending/Topics.md",
+    "Development/Mobile/Expo/Development process.md",
+    "Development/Mobile/React Native/Setup your envionment.md",
+    "Development/Mobile/React Native/React native.md",
+    "Development/Mobile/Expo/Setup your environment.md",
+    "Development/Mobile/Expo/Expo Application Service (EAS).md",
+    "Development/Mobile/Expo/Expo.md",
+    "Pasted image 20260109094853.png",
+    "Pasted image 20260109093222.png",
+    "Development/Mobile/React Native",
+    "Development/Mobile/Expo/Testing.md",
     "Pending",
     "Project management/Scrum.md",
     "Development/Mobile/Untitled.md",
