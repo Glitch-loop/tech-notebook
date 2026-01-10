@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "a56072351802655b",
+        "id": "9a7b5eb7881e4d1e",
         "type": "tabs",
         "children": [
           {
-            "id": "a05e10b4b87596bc",
+            "id": "037223a76b3aec92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Mobile/React Native/React native.md",
+                "file": "Development/React/Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React native"
+              "title": "Hooks"
             }
           },
           {
-            "id": "74c35f5c0b1232e3",
+            "id": "1830667e0ce0dd34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/Mobile/Expo/Development process.md",
+                "file": "Development/Mobile/Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Development process"
+              "title": "Glossary"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Development/Mobile/Expo/Development process.md",
+                "file": "Development/React/Hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Development process"
+              "title": "Backlinks for Hooks"
             }
           },
           {
@@ -128,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Mobile/Expo/Development process.md",
+                "file": "Development/React/Hooks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Development process"
+              "title": "Outgoing links from Hooks"
             }
           },
           {
@@ -171,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development/Mobile/Expo/Development process.md",
+                "file": "Development/React/Hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Development process"
+              "title": "Outline of Hooks"
             }
           },
           {
@@ -209,22 +208,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74c35f5c0b1232e3",
+  "active": "037223a76b3aec92",
   "lastOpenFiles": [
-    "Pending/Topics.md",
-    "Development/Mobile/Expo/Development process.md",
+    "Development/Mobile/Expo/2. Expo Application Service (EAS).md",
+    "Development/React/Hooks.md",
+    "Development/React",
+    "Development/Mobile/Glossary.md",
     "Development/Mobile/React Native/Setup your envionment.md",
     "Development/Mobile/React Native/React native.md",
-    "Development/Mobile/Expo/Setup your environment.md",
-    "Development/Mobile/Expo/Expo Application Service (EAS).md",
-    "Development/Mobile/Expo/Expo.md",
-    "Pasted image 20260109094853.png",
-    "Pasted image 20260109093222.png",
+    "Development/Mobile/Expo/1. Expo.md",
+    "Development/Mobile/Expo/4. Development process.md",
+    "Pasted image 20260110104255.png",
+    "Development/Mobile/Expo/3. Setup your environment.md",
+    "Assests/Expo/Pasted image 20260109093222.png",
+    "Assests/Expo/Pasted image 20260109094853.png",
+    "Assests/Expo/Pasted image 20260110102810.png",
+    "Assests/Expo",
+    "Assests",
+    "README.md",
+    "Pending/Topics.md",
     "Development/Mobile/React Native",
     "Development/Mobile/Expo/Testing.md",
     "Pending",
     "Project management/Scrum.md",
-    "Development/Mobile/Untitled.md",
     "Development/Mobile/Expo",
     "Development/Mobile",
     "Artificial intelligence/frameworks/Langchain/Langchain_other.md",
