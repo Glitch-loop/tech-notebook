@@ -1,9 +1,10 @@
-As a way to compare monolithic and distributed architectures, there was created a list comparing aspects of a system using both types of architectures.
-This comparison was condensed into fallacies, to let know to the reader the concerns implied when a system change from monolithic to distributed system.
+To compare monolithic and distributed architectures, a list was created outlining key aspects of a system built using both types of architectures.
+
+This comparison was condensed into a series of fallacies, to inform  the reader the concerns involved when transitioning from a monolithic to a distributed system.
 
 > ***Stamp coupling***: This type of coupling is presented in distributed architectures and refers when the communication of the services overhead the bandwidth this due to the amount of sent information. 
 > 
-> For instance, imagine a service that needs the information of user's profile (500kb), just the name (200bytes), and then it calls to another service having as result the entire profile, now imagen that this happens 2,000 times per second, that means each interservice call take 1GBps of bandwidth.
+> For instance, imagine a service that needs the information of user's profile (500kb), just the name (200bytes), and then it calls to another service having as result the entire profile, now imagine that this happens 2,000 times per second, that means each interservice call take 1GBps of bandwidth.
 
 
 ### Fallacy #1 The network is reliable
