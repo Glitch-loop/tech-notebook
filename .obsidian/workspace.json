@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "008ab64a5674e9d2",
+        "id": "b7fa1c033ccabbcb",
         "type": "tabs",
         "children": [
           {
-            "id": "274dbb1d5a937832",
+            "id": "6fc14e7fac0e1630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "software_architecture/Monolithic vs Distributed architectures.md",
+                "file": "competitive_programming/Algorithms/Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monolithic vs Distributed architectures"
+              "title": "Matrix"
             }
           }
         ]
@@ -194,17 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "274dbb1d5a937832",
+  "active": "781e742b36c47c7e",
   "lastOpenFiles": [
-    "Pasted image 20260223084723.png",
-    "Pasted image 20260223084539.png",
-    "Pasted image 20260223083440.png",
-    "Pasted image 20260223083236.png",
-    "Pasted image 20260223082504.png",
-    "Pasted image 20260223081445.png",
-    "Pasted image 20260223081421.png",
-    "Development/Mobile/Cases/Error_react-native-worklets_plugin.md",
+    "competitive_programming/Algorithms/Matrix.md",
+    "competitive_programming/Algorithms",
+    "competitive_programming",
+    "Assests/software_architecture_fundamentals/Pasted image 20260110104255.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223081421.png",
     "software_architecture/Monolithic vs Distributed architectures.md",
+    "Assests/software_architecture_fundamentals",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223084723.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223084539.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223083440.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223083236.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223082504.png",
+    "Assests/software_architecture_fundamentals/Pasted image 20260223081445.png",
+    "Development/Mobile/Cases/Error_react-native-worklets_plugin.md",
     "software_architecture",
     "Development/Mobile/Cases",
     "Development/Mobile/Glossary.md",
@@ -215,11 +220,9 @@
     "Development/Mobile/React Native/React native.md",
     "Development/Mobile/Expo/1. Expo.md",
     "Development/Mobile/Expo/4. Development process.md",
-    "Pasted image 20260110104255.png",
     "Development/Mobile/Expo/3. Setup your environment.md",
     "Assests/Expo/Pasted image 20260109093222.png",
     "Assests/Expo/Pasted image 20260109094853.png",
-    "Assests/Expo/Pasted image 20260110102810.png",
     "Assests/Expo",
     "Assests",
     "README.md",
@@ -228,11 +231,8 @@
     "Development/Mobile/Expo/Testing.md",
     "Pending",
     "Project management/Scrum.md",
-    "Development/Mobile/Expo",
-    "Development/Mobile",
     "Artificial intelligence/frameworks/Langchain/Langchain_other.md",
     "Project management/Jira.md",
-    "Project management",
     "Artificial intelligence/frameworks/Langchain/Langchain.md"
   ]
 }
