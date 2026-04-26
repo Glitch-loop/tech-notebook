@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development/fundamentals/About what to learn in 2026.md",
+                "file": "software_architecture/API design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About what to learn in 2026"
+              "title": "API design"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "6fc14e7fac0e1630",
   "lastOpenFiles": [
-    "Pending/Topics.md",
     "Development/fundamentals/About what to learn in 2026.md",
+    "software_architecture/API design.md",
+    "Pending/Topics.md",
     "Observability/OpenTelemtetry and Prometheus.md",
     "Development/fundamentals",
     "Untitled",
